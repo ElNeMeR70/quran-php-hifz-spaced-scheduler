@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/quran-php-hifz-spaced-scheduler",
+  "description": "Quran Hifz & Muraja'ah Spaced Repetition SM-2 Optimizer (مجدول حفظ ومراجعة القرآن الكريم بالذاكرة المتباعدة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
